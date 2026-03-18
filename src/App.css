@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+:target {
+  scroll-margin-top: 0; /* o un valor que mantenga la posición */
+}
